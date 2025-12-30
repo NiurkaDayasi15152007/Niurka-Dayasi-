@@ -93,6 +93,5 @@
             ✨ En constante aprendizaje y crecimiento ✨
         </footer>
     </div>
-
 </body>
 </html>
